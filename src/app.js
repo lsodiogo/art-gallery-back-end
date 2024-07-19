@@ -20,7 +20,9 @@ app.use(cors(corsOptions));
 app.use(cookieParser(secretKey));
 
 
-app.use("/home", );
+app.use("/home", function (req, res) {
+   res.json("TEST")
+});
 
 
 app.listen(port, function() {
