@@ -8,4 +8,4 @@ One of the most discerning and innovative antique & art enthusiast dealers in Br
 
 # DIAGRAM
 
-![DIAGRAM](https://github.com/lsodiogo/art-gallery-back-end/blob/master/docs/ART_GALLERY_DIAGRAM.svg)
+![DIAGRAM](https://github.com/lsodiogo/art-gallery-back-end/blob/master/docs/ART_GALLERY_DIAGRAM.png)
